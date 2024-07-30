@@ -1,0 +1,33 @@
+#user-list {
+    list-style-type: none;
+    padding: 0;
+    background-color: yellow;
+  }
+  
+  .user-item {
+    border: 2px solid #cc07f4;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .user-item h3 {
+    margin:  5px;
+    color: #a53535;
+  }
+  
+  .user-item p {
+    margin: 5px 0;
+    color: #36bb4a;
+  }
+  
+  .user-item a {
+    color: #1a0dab;
+    text-decoration: none;
+  }
+  
+  .user-item a:hover {
+    text-decoration: underline;
+  }
+  
